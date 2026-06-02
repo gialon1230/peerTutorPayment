@@ -66,9 +66,13 @@ python backend/main.py demo
 ```
 
 # Contract
-Contract link: Testnet deployment pending
+Contract key: CATSRPLN4NWKV3SI7O5POTWZ466UIZNMMFU4WRVHD3MXBJAFEJMNTSG7
 
-Contract screenshot: placeholder to be added after deployment.
+Contract link: https://stellar.expert/explorer/testnet/contract/CATSRPLN4NWKV3SI7O5POTWZ466UIZNMMFU4WRVHD3MXBJAFEJMNTSG7
+
+Contract screenshot:
+
+![Contract screenshot](./assets/contract.png)
 
 # Future scopes
 - Add a frontend dashboard for tutor bookings and payment status
@@ -78,6 +82,6 @@ Contract screenshot: placeholder to be added after deployment.
 - Improve deployment automation for testnet and mainnet
 
 # Profile
-Name: Your Name Here
+Name: Vo Dinh Long
 Skills: Rust, Soroban, SQLite, Python, API design, blockchain backend development
 Focus: Building transparent Stellar-native payment infrastructure
